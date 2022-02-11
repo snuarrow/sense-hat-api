@@ -1,0 +1,6 @@
+pip3 install flask
+sudo apt install ufw
+sudo reboot 0
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw enable
